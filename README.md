@@ -6,7 +6,7 @@
 ### <div align="center">I'm Muhammad Talha, a full-time full-stack developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working as a Team Lead and Full Stack Developer in MERN  
+- 🔭 I’m currently working as a Team Lead and Full Stack MERN Developer  
   
 
 - 🌱 I’m currently learning DevOps
@@ -87,22 +87,22 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/M-Talha517" target="_blank">
+<a href="https://github.com/m-dot-dev" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/M-Talha517" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://dev.to/M-Talha517" target="_blank">
+<a href="https://dev.to/m-dot-dev" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/abdullahsaad5" target="_blank">
+<a href="https://linkedin.com/in/m-dot-dev" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/syed_abdullah_saad" target="_blank">
+<a href="https://instagram.com/mdotdev" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/17722487/syed-abdullah-saad" target="_blank">
+<a href="https://stackoverflow.com/users/15168142/m-dot-dev" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -112,7 +112,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=M-Talha517&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=m-dot-dev&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
