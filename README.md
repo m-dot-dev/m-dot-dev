@@ -134,23 +134,3 @@ Python           14 hrs 35 mins  -------------------------   01.35 %
 <!--END_SECTION:waka-->
 
 <br/>  
-
-## Spotify Listen History
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31o2tqbw4pkae4bcgywswebcyuqq&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=abdullahsaad5&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/abdullahsaad5" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
