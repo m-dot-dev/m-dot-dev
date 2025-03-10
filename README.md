@@ -108,22 +108,4 @@
 
 <br/>  
 
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=m-dot-dev&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-<!--START_SECTION:waka-->
-
-```txt
-Python       15 hrs 11 mins  ██████████░░░░░░░░░░░░░░░   39.65 %
-TypeScript   14 hrs          █████████░░░░░░░░░░░░░░░░   36.56 %
-JavaScript   6 hrs 47 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.72 %
-Other        1 hr 6 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
-JSON         52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
-```
-
-<!--END_SECTION:waka-->
-
 <br/>  
